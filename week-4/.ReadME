@@ -1,0 +1,11 @@
+This folder contains basic HTML practice assignments focusing on text formatting, lists, and image embedding.
+These files demonstrate foundational web development concepts.
+
+Paragraphs&List.html:
+Demonstrates the use of paragraphs and lists in HTML. Covers ordered lists (<ol>), unordered lists (<ul>), and proper text structuring with <p> tags.
+
+NestedList.html:
+Shows how to create nested lists (lists within lists). Useful for hierarchical data representation such as menus or outlines.
+
+imageImplementation.html:
+Implements images in HTML using the <img> tag. Demonstrates attributes like src, alt, width, and height.
