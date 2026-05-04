@@ -1,1 +1,17 @@
+DailyTemperatureAnalyzer.js:
+Program to analyze daily temperature data. Likely includes logic for calculating averages, identifying min/max temperatures, and basic weather-related insights
 
+Functions.js:
+Demonstrates the use of functions in JavaScript. Covers function declaration, parameter passing, return values, and modular code design.
+
+ObjectOperations.js:
+Focuses on object manipulation in JavaScript. Includes creating objects, accessing properties, updating values, and iterating over objects.
+
+OnlineCourseNameProcessor.js:
+Processes course names (e.g., string operations such as trimming, case conversion, or formatting). Useful for handling text data in educational applications.
+
+StudentMarksList.js:
+Manages a list of student marks. Likely includes logic for calculating totals, averages, grades, or ranking students.
+
+conditionalStatements.js:
+Demonstrates conditional logic (if-else, switch-case). Useful for decision-making scenarios in programs.
