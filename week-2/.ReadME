@@ -1,1 +1,34 @@
+BankTransactionAnalyzer.js:
+Simulates a banking system to analyze deposits, withdrawals, and balances. Demonstrates transaction handling and conditional checks
+
+Copy&Reference.js / Copy&Reference2.js:
+Explains the difference between copying vs referencing objects in JavaScript. Useful for understanding shallow vs deep copies.
+
+EmployeePayrollProcessor.js:
+Processes employee payroll data. Includes salary calculation, deductions, and structured reporting.
+
+ExamPortalSimulator.js:
+Simulates an online exam portal with features like login, question handling, and result calculation
+
+Library BookManagementSystem.js:
+Manages library books (add, issue, return). Demonstrates CRUD operations on objects/arrays.
+
+MovieStreamingPlatform.js:
+Mimics a streaming platform with movie listings, subscriptions, and user interactions.
+
+OTPCountdownSimulator(Console App).js:
+Console-based OTP countdown timer. Demonstrates timers and asynchronous functions.
+
+StudentPerformanceDashboard.js:
+Tracks student marks and performance. Includes analytics like averages, grades, and ranking.
+
+deepcopy.js / shallow.js:
+Demonstrates deep copy vs shallow copy in JavaScript with examples
+
+functions.js:
+Practice file for modular functions and reusable code.
+
+shoppingcart.js:
+Simulates an e-commerce shopping cart with add/remove items and total calculation.
+
 
